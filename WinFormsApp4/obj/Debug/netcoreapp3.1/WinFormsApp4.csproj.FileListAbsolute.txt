@@ -1,0 +1,16 @@
+C:\Users\38-1.CLP\source\repos\WinFormsApp4\bin\Debug\netcoreapp3.1\WinFormsApp4.exe
+C:\Users\38-1.CLP\source\repos\WinFormsApp4\bin\Debug\netcoreapp3.1\WinFormsApp4.deps.json
+C:\Users\38-1.CLP\source\repos\WinFormsApp4\bin\Debug\netcoreapp3.1\WinFormsApp4.runtimeconfig.json
+C:\Users\38-1.CLP\source\repos\WinFormsApp4\bin\Debug\netcoreapp3.1\WinFormsApp4.runtimeconfig.dev.json
+C:\Users\38-1.CLP\source\repos\WinFormsApp4\bin\Debug\netcoreapp3.1\WinFormsApp4.dll
+C:\Users\38-1.CLP\source\repos\WinFormsApp4\bin\Debug\netcoreapp3.1\WinFormsApp4.pdb
+C:\Users\38-1.CLP\source\repos\WinFormsApp4\obj\Debug\netcoreapp3.1\WinFormsApp4.csproj.AssemblyReference.cache
+C:\Users\38-1.CLP\source\repos\WinFormsApp4\obj\Debug\netcoreapp3.1\WinFormsApp4.Form1.resources
+C:\Users\38-1.CLP\source\repos\WinFormsApp4\obj\Debug\netcoreapp3.1\WinFormsApp4.csproj.GenerateResource.cache
+C:\Users\38-1.CLP\source\repos\WinFormsApp4\obj\Debug\netcoreapp3.1\WinFormsApp4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\38-1.CLP\source\repos\WinFormsApp4\obj\Debug\netcoreapp3.1\WinFormsApp4.AssemblyInfoInputs.cache
+C:\Users\38-1.CLP\source\repos\WinFormsApp4\obj\Debug\netcoreapp3.1\WinFormsApp4.AssemblyInfo.cs
+C:\Users\38-1.CLP\source\repos\WinFormsApp4\obj\Debug\netcoreapp3.1\WinFormsApp4.csproj.CoreCompileInputs.cache
+C:\Users\38-1.CLP\source\repos\WinFormsApp4\obj\Debug\netcoreapp3.1\WinFormsApp4.dll
+C:\Users\38-1.CLP\source\repos\WinFormsApp4\obj\Debug\netcoreapp3.1\WinFormsApp4.pdb
+C:\Users\38-1.CLP\source\repos\WinFormsApp4\obj\Debug\netcoreapp3.1\WinFormsApp4.genruntimeconfig.cache
